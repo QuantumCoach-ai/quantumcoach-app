@@ -1,0 +1,8 @@
+{
+  "sample_player": {
+    "position": "FLB",
+    "price": 450000,
+    "avg": 55,
+    "breakeven": 35
+  }
+}
